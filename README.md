@@ -2,7 +2,7 @@
 
 A Website that provides information about myself, Contacts, and Project Links. 
 
-## Builtwith
+## Built With
 
 This Project was built using HTML and CSS.
 
